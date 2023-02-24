@@ -15,6 +15,8 @@ And then it allows them to switch between the local and the online version of th
 ###### Fork From [Vinelab/cdn](https://github.com/Vinelab/cdn)
 This project has been forked from https://github.com/Vinelab/cdn. All credit for the original work goes there.
 
+###### Forked from publiux/laravelcdn
+
 #### Laravel Support
 - This fork supports Laravel 8 and up.
 - Package auto-discovery is supported.
